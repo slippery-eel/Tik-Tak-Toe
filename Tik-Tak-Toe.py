@@ -1,4 +1,4 @@
-%% Play a 2 player game of tik tak toe!
+### Play a 2 player game of tik tak toe!
 
 board = [' ' for x in range(9)]
 
